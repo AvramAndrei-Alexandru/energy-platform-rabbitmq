@@ -140,11 +140,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\UTCN\\An 4\\Distributed Systems DS\\Project\\EnergyPlatformRabbitMQ\\EnergyPlatformRabbitMQ\\EnergyPlatformRabbitMQ\\EnergyPlatformRabbitMQ.csproj",
+      "projectUniqueName": "D:\\Desktop\\UTCN\\An 4\\Distributed Systems DS\\Project\\EnergyPlatformRabbitMQ\\energy-platform-rabbitmq\\EnergyPlatformRabbitMQ\\EnergyPlatformRabbitMQ.csproj",
       "projectName": "EnergyPlatformRabbitMQ",
-      "projectPath": "D:\\Desktop\\UTCN\\An 4\\Distributed Systems DS\\Project\\EnergyPlatformRabbitMQ\\EnergyPlatformRabbitMQ\\EnergyPlatformRabbitMQ\\EnergyPlatformRabbitMQ.csproj",
+      "projectPath": "D:\\Desktop\\UTCN\\An 4\\Distributed Systems DS\\Project\\EnergyPlatformRabbitMQ\\energy-platform-rabbitmq\\EnergyPlatformRabbitMQ\\EnergyPlatformRabbitMQ.csproj",
       "packagesPath": "C:\\Users\\Andrei\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\UTCN\\An 4\\Distributed Systems DS\\Project\\EnergyPlatformRabbitMQ\\EnergyPlatformRabbitMQ\\EnergyPlatformRabbitMQ\\obj\\",
+      "outputPath": "D:\\Desktop\\UTCN\\An 4\\Distributed Systems DS\\Project\\EnergyPlatformRabbitMQ\\energy-platform-rabbitmq\\EnergyPlatformRabbitMQ\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

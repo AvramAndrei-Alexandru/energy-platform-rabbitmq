@@ -8,7 +8,6 @@ using System.Text.Json;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 using TinyCsvParser;
-using System.Windows.Forms;
 
 namespace EnergyPlatformRabbitMQ
 {
@@ -16,12 +15,6 @@ namespace EnergyPlatformRabbitMQ
     {
         static async Task Main(string[] args)
         {
-            OpenFileDialog dialog = new OpenFileDialog();
-            if (DialogResult.OK == dialog.ShowDialog())
-            {
-                string path = dialog.FileName;
-            }
-            Console.WriteLine("Hello World!");
             //var deviceID = GetDeviceIdFromFile();
             var deviceID = GetDeviceIDFromArguments(args);
             if (deviceID == null || deviceID == Guid.Empty)

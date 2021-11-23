@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = EnergyPlatformRabbitMQ
-build_property.ProjectDir = D:\Desktop\UTCN\An 4\Distributed Systems DS\Project\EnergyPlatformRabbitMQ\EnergyPlatformRabbitMQ\EnergyPlatformRabbitMQ\
+build_property.ProjectDir = D:\Desktop\UTCN\An 4\Distributed Systems DS\Project\EnergyPlatformRabbitMQ\energy-platform-rabbitmq\EnergyPlatformRabbitMQ\
