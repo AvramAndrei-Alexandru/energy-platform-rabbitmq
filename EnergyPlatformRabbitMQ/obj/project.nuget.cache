@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "BA03VxRPTeD6d/YaMY+wZ+2mZHVDFRc3S01zZWIaSDOc9+GQvN1DiGyw/lKCTF2K8fqGd27b1RNGNyEB3v6YiA==",
+  "dgSpecHash": "0PMNU2yATetPvBP08SpL8DU/qYwasJG5SLbGONEL9JNnjzWhYamdselBKs+1vegZIz0PrszFN6wbMw22qRFpeg==",
   "success": true,
   "projectFilePath": "D:\\Desktop\\UTCN\\An 4\\Distributed Systems DS\\Project\\EnergyPlatformRabbitMQ\\EnergyPlatformRabbitMQ\\EnergyPlatformRabbitMQ\\EnergyPlatformRabbitMQ.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andrei\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
     "C:\\Users\\Andrei\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
-    "C:\\Users\\Andrei\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+    "C:\\Users\\Andrei\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
+    "C:\\Users\\Andrei\\.nuget\\packages\\tinycsvparser\\2.6.1\\tinycsvparser.2.6.1.nupkg.sha512"
   ],
   "logs": []
 }

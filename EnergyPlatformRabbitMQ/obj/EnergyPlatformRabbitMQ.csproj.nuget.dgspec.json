@@ -47,6 +47,10 @@
             "RabbitMQ.Client": {
               "target": "Package",
               "version": "[6.2.2, )"
+            },
+            "TinyCsvParser": {
+              "target": "Package",
+              "version": "[2.6.1, )"
             }
           },
           "imports": [
