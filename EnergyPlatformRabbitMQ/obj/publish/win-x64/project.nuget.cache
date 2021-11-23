@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "muKK9Bo3Hlg3TDledDqeh1jmF48gNThUfZNyu+hiPsBG0vxmKzceJnyTzwuKjmBCGwmWKWmpsymTOIfSi9lq/A==",
+  "success": true,
+  "projectFilePath": "D:\\Desktop\\UTCN\\An 4\\Distributed Systems DS\\Project\\EnergyPlatformRabbitMQ\\energy-platform-rabbitmq\\EnergyPlatformRabbitMQ\\EnergyPlatformRabbitMQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrei\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\Andrei\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Andrei\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
+    "C:\\Users\\Andrei\\.nuget\\packages\\tinycsvparser\\2.6.1\\tinycsvparser.2.6.1.nupkg.sha512",
+    "C:\\Users\\Andrei\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.12\\microsoft.netcore.app.runtime.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\Andrei\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.12\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\Andrei\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.12\\microsoft.aspnetcore.app.runtime.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

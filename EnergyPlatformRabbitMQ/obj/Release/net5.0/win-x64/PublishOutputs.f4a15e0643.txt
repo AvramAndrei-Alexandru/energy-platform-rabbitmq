@@ -1,0 +1,6 @@
+D:\Desktop\UTCN\An 4\Distributed Systems DS\Project\EnergyPlatformRabbitMQ\energy-platform-rabbitmq\EnergyPlatformRabbitMQ\bin\Release\net5.0\publish\self2\EnergyPlatformRabbitMQ.pdb
+D:\Desktop\UTCN\An 4\Distributed Systems DS\Project\EnergyPlatformRabbitMQ\energy-platform-rabbitmq\EnergyPlatformRabbitMQ\bin\Release\net5.0\publish\self2\clrcompression.dll
+D:\Desktop\UTCN\An 4\Distributed Systems DS\Project\EnergyPlatformRabbitMQ\energy-platform-rabbitmq\EnergyPlatformRabbitMQ\bin\Release\net5.0\publish\self2\clrjit.dll
+D:\Desktop\UTCN\An 4\Distributed Systems DS\Project\EnergyPlatformRabbitMQ\energy-platform-rabbitmq\EnergyPlatformRabbitMQ\bin\Release\net5.0\publish\self2\coreclr.dll
+D:\Desktop\UTCN\An 4\Distributed Systems DS\Project\EnergyPlatformRabbitMQ\energy-platform-rabbitmq\EnergyPlatformRabbitMQ\bin\Release\net5.0\publish\self2\mscordaccore.dll
+D:\Desktop\UTCN\An 4\Distributed Systems DS\Project\EnergyPlatformRabbitMQ\energy-platform-rabbitmq\EnergyPlatformRabbitMQ\bin\Release\net5.0\publish\self2\EnergyPlatformRabbitMQ.exe

@@ -15,8 +15,7 @@ namespace EnergyPlatformRabbitMQ
     {
         static async Task Main(string[] args)
         {
-            //var deviceID = GetDeviceIdFromFile();
-            var deviceID = GetDeviceIDFromArguments(args);
+            var deviceID = GetDeviceIdFromFile();
             if (deviceID == null || deviceID == Guid.Empty)
             {
                 Console.WriteLine("Error, GUID not in a valid format");
@@ -29,7 +28,7 @@ namespace EnergyPlatformRabbitMQ
         {
             try
             {
-                using var sr = new StreamReader("../../../DeviceID.txt");
+                using var sr = new StreamReader("DeviceID.txt");
                 var readGuid = Guid.Empty;
                 _ = Guid.TryParse(sr.ReadToEnd().Trim(), out readGuid);
                 return readGuid;
@@ -104,7 +103,7 @@ namespace EnergyPlatformRabbitMQ
             CSVMapper csvMapper = new CSVMapper();
             CsvParser<Data> csvParser = new CsvParser<Data>(csvParserOptions, csvMapper);
             var result = csvParser
-                         .ReadFromFile(@"../../../sensor.csv", Encoding.ASCII)
+                         .ReadFromFile("sensor.csv", Encoding.ASCII)
                          .ToList();
             List<Data> returnData = new List<Data>();
             foreach (var details in result)

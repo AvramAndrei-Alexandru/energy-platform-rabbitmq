@@ -1,0 +1,7 @@
+D:\Desktop\UTCN\An 4\Distributed Systems DS\Project\EnergyPlatformRabbitMQ\energy-platform-rabbitmq\EnergyPlatformRabbitMQ\bin\Release\net5.0\publish\EnergyPlatformRabbitMQ.exe
+D:\Desktop\UTCN\An 4\Distributed Systems DS\Project\EnergyPlatformRabbitMQ\energy-platform-rabbitmq\EnergyPlatformRabbitMQ\bin\Release\net5.0\publish\EnergyPlatformRabbitMQ.dll
+D:\Desktop\UTCN\An 4\Distributed Systems DS\Project\EnergyPlatformRabbitMQ\energy-platform-rabbitmq\EnergyPlatformRabbitMQ\bin\Release\net5.0\publish\EnergyPlatformRabbitMQ.deps.json
+D:\Desktop\UTCN\An 4\Distributed Systems DS\Project\EnergyPlatformRabbitMQ\energy-platform-rabbitmq\EnergyPlatformRabbitMQ\bin\Release\net5.0\publish\EnergyPlatformRabbitMQ.runtimeconfig.json
+D:\Desktop\UTCN\An 4\Distributed Systems DS\Project\EnergyPlatformRabbitMQ\energy-platform-rabbitmq\EnergyPlatformRabbitMQ\bin\Release\net5.0\publish\EnergyPlatformRabbitMQ.pdb
+D:\Desktop\UTCN\An 4\Distributed Systems DS\Project\EnergyPlatformRabbitMQ\energy-platform-rabbitmq\EnergyPlatformRabbitMQ\bin\Release\net5.0\publish\RabbitMQ.Client.dll
+D:\Desktop\UTCN\An 4\Distributed Systems DS\Project\EnergyPlatformRabbitMQ\energy-platform-rabbitmq\EnergyPlatformRabbitMQ\bin\Release\net5.0\publish\TinyCsvParser.dll
